@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Hi, I'm Roshitha, a Computer Science student from India.
 
-<!--
-**roshithapudi/roshithapudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 I'm currently learning Data Analytics and building dashboard projects step by step to improve my skills.
 
-Here are some ideas to get you started:
+🌱 Currently learning:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SQL
+- Data Analytics
+- Dashboards
+
+✅ Completed:
+
+-  Excel
+- Pivot Tables
+- Basic Dashboard Projects
+
+🎯 I'm interested in creating clean and simple dashboard projects and sharing my learning journey here on GitHub.
