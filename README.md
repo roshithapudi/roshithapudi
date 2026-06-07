@@ -1,4 +1,4 @@
-👋 Hi, I'm Roshitha, a Computer Science student from India.
+👋 Hi, I'm Roshitha, a Computer Science student from Hyderabad.
 
 📊 I'm currently learning Data Analytics and building dashboard projects step by step to improve my skills.
 
