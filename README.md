@@ -38,4 +38,3 @@ I'm continuously building hands-on projects to strengthen my skills in Data Anal
 📫 **Let's Connect**
 
 * LinkedIn: https://www.linkedin.com/in/roshitha-pudi
-* Email: [roshithapudi@gmail.com](mailto:roshithapudi@gmail.com)
