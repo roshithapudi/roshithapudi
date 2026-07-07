@@ -1,17 +1,41 @@
-👋 Hi, I'm Roshitha, a Computer Science student from Hyderabad.
+# 👋 Hi, I'm Roshitha!
 
-📊 I'm currently learning Data Analytics and building dashboard projects step by step to improve my skills.
+🎓 **Computer Science Student** from Hyderabad, India.
 
-🌱 Currently learning:
+📊 I'm passionate about **Data Analytics** and enjoy turning raw data into meaningful insights through dashboards and reports.
 
-- SQL
-- Data Analytics
-- Dashboards
+### 🌱 Currently Learning
 
-✅ Completed:
+* SQL
+* Data Analytics
+* Data Visualization
 
--  Excel
-- Pivot Tables
-- Basic Dashboard Projects
+### ✅ Skills
 
-🎯 I'm interested in creating clean and simple dashboard projects and sharing my learning journey here on GitHub.
+* Microsoft Excel
+* Pivot Tables
+* Charts & Dashboards
+* Data Cleaning
+* Basic Data Analysis
+
+### 🛠️ Tools
+
+* Excel
+* SQL (Learning)
+* Python (Learning)
+* Power BI (Learning)
+
+### 📂 Featured Projects
+
+* ☕ Coffee Sales Dashboard
+* 🛒 Ecommerce Sales Dashboard
+* 📈 More analytics projects coming soon...
+
+### 🎯 Goal
+
+I'm continuously building hands-on projects to strengthen my skills in Data Analytics and create a professional portfolio on GitHub.
+
+📫 **Let's Connect**
+
+* LinkedIn: https://www.linkedin.com/in/roshitha-pudi
+* Email: [roshithapudi@gmail.com](mailto:roshithapudi@gmail.com)
